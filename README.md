@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlessingFernando
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to forward to work a cyber security job.
+- 💞️ I’m looking to forward to work a cyber security or AWS!.
 - 📫 
 
 <!---
